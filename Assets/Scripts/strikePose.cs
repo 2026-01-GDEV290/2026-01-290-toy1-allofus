@@ -6,18 +6,42 @@ public class strikePose : MonoBehaviour
 {
 
     public Animator pose;
-    public bool dance1 = false;
+    //public bool dance1 = false;
 
+    string[] animations = { "dance1", "run1", "run2", "stand1" };
+    int chosenAnim = 0;
+
+    private void Start()
+    {
+
+    }
     private void Update()
     {
+
         if(Input.GetMouseButtonDown(0))
         {
-            Debug.Log("Input has been read.");
+            if(chosenAnim < animations.Length - 1)
+            {
+                chosenAnim++;
+            }
+            else
+            {
+                chosenAnim = 0;
+            }
+
+            pose.SetBool(animations[chosenAnim], true);
+            //pose.SetBool("shake", true);
+        }
+        else
+        {
+            pose.SetBool(animations[chosenAnim], false);
+            //pose.SetBool("shake", false);
         }
     }
 
-    /*void OnMouseDown()
+    /*public void OnMouseDown()
     {
-        Debug.Log("Input has been read.");
+        pose.SetBool("shake", true);
     }*/
+
 }
