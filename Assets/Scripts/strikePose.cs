@@ -8,12 +8,17 @@ public class strikePose : MonoBehaviour
     public Animator pose;
     //public bool dance1 = false;
 
-    string[] animations = { "dance1", "run1", "run2", "stand1" };
+
+    private AudioSource source;
+
+    public AudioClip[] sounds;
+
+    string[] animations = {"dance1", "stand2", "run1", "dance2", "run2", "stand1"};
     int chosenAnim = 0;
 
     private void Start()
     {
-
+        source = GetComponent<AudioSource>();
     }
     private void Update()
     {
@@ -30,12 +35,13 @@ public class strikePose : MonoBehaviour
             }
 
             pose.SetBool(animations[chosenAnim], true);
-            //pose.SetBool("shake", true);
+            source.clip = sounds[chosenAnim];
+            source.Play();
+
         }
         else
         {
             pose.SetBool(animations[chosenAnim], false);
-            //pose.SetBool("shake", false);
         }
     }
 
