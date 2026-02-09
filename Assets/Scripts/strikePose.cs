@@ -1,16 +1,23 @@
+using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.UIElements;
 
 public class strikePose : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+
+    public Animator pose;
+    public bool dance1 = false;
+
+    private void Update()
     {
-        
+        if(Input.GetMouseButtonDown(0))
+        {
+            Debug.Log("Input has been read.");
+        }
     }
 
-    // Update is called once per frame
-    void Update()
+    /*void OnMouseDown()
     {
-        
-    }
+        Debug.Log("Input has been read.");
+    }*/
 }
