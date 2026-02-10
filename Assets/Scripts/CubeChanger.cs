@@ -18,6 +18,10 @@ public class CubeChanger : MonoBehaviour
     public GameObject leftScale;
     private TriggerScale leftScaleCollider;
 
+    public float scaleFactor;
+
+    public AudioSource rattle;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     public void Start()
     {
@@ -35,15 +39,19 @@ public class CubeChanger : MonoBehaviour
         if(isRed)
         {
             this.GetComponent<Renderer>().material = blue;
+            this.transform.localScale -= new Vector3(scaleFactor, scaleFactor, scaleFactor);
             rb.mass = newMass;
             leftScaleCollider.weight = newMass;
+            rattle.Play();
             //Debug.Log("Accessed Scale Weight: " + leftScaleCollider.TotalWeight);
         }
         else
         {
             this.GetComponent<Renderer>().material = red;
+            this.transform.localScale += new Vector3(scaleFactor, scaleFactor, scaleFactor);
             rb.mass = originalMass;
             leftScaleCollider.weight = originalMass;
+            rattle.Play();
         }
     }
 }
