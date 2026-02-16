@@ -8,7 +8,7 @@ public class ScrollMovement : MonoBehaviour
     public float yPos = 1.76f; 
     void Start()
     {
-        yPos = 24.76f;
+        yPos = 27.76f;
         speed = 100f;
     }
 
@@ -20,12 +20,16 @@ public class ScrollMovement : MonoBehaviour
         {
             //speed += 0.25f;
             yPos += 1f;
-            if (yPos > 24.76f)
+            if (yPos > 27.76f)
             {
-                yPos = 24.76f;
+                yPos = 27.76f;
+            }
+            else
+            {
+                transform.Translate(Vector3.up * speed * Time.deltaTime);
             }
 
-            transform.Translate(Vector3.up * speed * Time.deltaTime);
+                
             //transform.position += new Vector3(0, yPos, 0) * speed * Time.deltaTime;
         }
         //going down
@@ -33,11 +37,15 @@ public class ScrollMovement : MonoBehaviour
         {
             //speed -= 0.25f;
             yPos -= 1f;
-            if(yPos < 2.76f)
+            if(yPos < 6.76f)
             {
-                yPos = 2.76f;
+                yPos = 6.76f;
             }
-            transform.Translate(Vector3.down * speed * Time.deltaTime);
+            else
+            {
+                transform.Translate(Vector3.down * speed * Time.deltaTime);
+            }
+                
             //transform.position += new Vector3(0, yPos, 0) * speed * Time.deltaTime;
         }
         //transform.position += new Vector3(0, yPos, 0);
