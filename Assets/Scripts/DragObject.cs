@@ -7,9 +7,23 @@ public class DragObject : MonoBehaviour
     private Vector3 mOffset;
     private float mZCoord;
 
-    public 
+    //public GameObject health;
+    private HealthManager healthManager;
 
-    void OnMouseDown()
+    void Start()
+    {
+        //health = GetComponent<HealthManager>();
+        GameObject health = GameObject.Find("HealthManager");
+        if(health != null)
+        {
+            healthManager = health.GetComponent<HealthManager>();
+        }
+        else
+        {
+            Debug.Log("Initial health manager detection is null.");
+        }
+    }
+    public void OnMouseDown()
     {
         mZCoord = Camera.main.WorldToScreenPoint(
 
@@ -50,6 +64,17 @@ public class DragObject : MonoBehaviour
         {
             Destroy(this.gameObject);
             Debug.Log("Collider Detected");
+
+            if (healthManager != null)
+            {
+                //health = 
+                healthManager.Heal(20f);
+            }
+            else
+            {
+                Debug.Log("Health could not be detected.");
+            }
+            
         }
     }
 }
