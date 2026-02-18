@@ -32,20 +32,29 @@ public class InteractScript : MonoBehaviour
 
         if (MouseScreenCheck() == true)
         {
-                if (hit.collider.gameObject == gameObject)
-                {
-                    isHovered = true;
-                    meshRenderer.material.color = Color.limeGreen;
-                }
-                else
-                {
-                    isHovered = false;
-                    meshRenderer.material.color = startcolor;
-                }
-
-            if (Input.GetMouseButtonDown(0) && isHovered)
+            if (!hit.IsUnityNull())
             {
-                interact();
+                if (hit.collider != null)
+                {
+                    if (hit.collider.gameObject != null)
+                    {
+                        if (hit.collider.gameObject == gameObject)
+                        {
+                            isHovered = true;
+                            meshRenderer.material.color = Color.limeGreen;
+                        }
+                        else
+                        {
+                            isHovered = false;
+                            meshRenderer.material.color = startcolor;
+                        }
+
+                        if (Input.GetMouseButtonDown(0) && isHovered)
+                        {
+                            interact();
+                        }
+                    }
+                }
             }
         }else
         {
