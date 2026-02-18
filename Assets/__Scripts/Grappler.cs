@@ -29,16 +29,30 @@ public class Grappler : MonoBehaviour
 
     void Update()
     {
-        if (!isDragging || !lineRenderer || !mainCamera) return;
+        if (!lineRenderer || !mainCamera) return;
+
+        SpringJoint joint = GetComponent<SpringJoint>();
+        bool hasAttachedJoint = joint && joint.connectedBody;
+        lineRenderer.enabled = isDragging || hasAttachedJoint;
+
+        if (!lineRenderer.enabled) return;
 
         lineRenderer.SetPosition(0, transform.position);
 
-        Plane plane = new Plane(Vector3.forward, transform.position);
-        Ray ray = mainCamera.ScreenPointToRay(Input.mousePosition);
-        if (plane.Raycast(ray, out float enter))
+        if (isDragging)
         {
-            Vector3 hit = ray.GetPoint(enter);
-            lineRenderer.SetPosition(1, hit);
+            Plane plane = new Plane(Vector3.forward, transform.position);
+            Ray ray = mainCamera.ScreenPointToRay(Input.mousePosition);
+            if (plane.Raycast(ray, out float enter))
+            {
+                Vector3 hit = ray.GetPoint(enter);
+                lineRenderer.SetPosition(1, hit);
+            }
+        }
+        else if (hasAttachedJoint)
+        {
+            Vector3 connectedWorldAnchor = joint.connectedBody.transform.TransformPoint(joint.connectedAnchor);
+            lineRenderer.SetPosition(1, connectedWorldAnchor);
         }
     }
 
@@ -81,9 +95,14 @@ public class Grappler : MonoBehaviour
     void OnMouseUp()
     {
         isDragging = false;
-        if (lineRenderer) lineRenderer.enabled = false;
         //if (grappleToy) grappleToy.
         OnGrapplerMouseUp(Input.mousePosition);
+
+        if (lineRenderer)
+        {
+            SpringJoint joint = GetComponent<SpringJoint>();
+            lineRenderer.enabled = joint && joint.connectedBody;
+        }
     }
 
     public void OnGrapplerMouseUp(Vector3 mouseScreenPos)
@@ -129,7 +148,7 @@ public class Grappler : MonoBehaviour
                 joint.connectedBody = runnerRb;
                 joint.autoConfigureConnectedAnchor = false;
                 joint.anchor = Vector3.zero; // Local anchor on Grappler
-                joint.connectedAnchor = Vector3.zero; // Local anchor on Runner
+                joint.connectedAnchor = runnerRb.transform.InverseTransformPoint(hit.point); // Local anchor on Runner at hit point
                 joint.spring = 25f;
                 joint.damper = 5f;
                 joint.massScale = 1f;
