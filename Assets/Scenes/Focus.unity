@@ -430,7 +430,6 @@ MonoBehaviour:
   targetGroup: {fileID: 613135379}
   attackable: []
   cam: {fileID: 1280602845}
-  OrbitalFollowComposer: {fileID: 0}
   FocusShower: {fileID: 1873231652}
   Range: 15
   Closest: {fileID: 0}
@@ -3974,6 +3973,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1590233424322711776, guid: d5aa817099b56fb4798e916b81c7c08e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 88865661fc3ea2748a7a50093d984a84, type: 2}
+    - target: {fileID: 4963760518376669153, guid: d5aa817099b56fb4798e916b81c7c08e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 88865661fc3ea2748a7a50093d984a84, type: 2}
     - target: {fileID: 7061044661033960008, guid: d5aa817099b56fb4798e916b81c7c08e, type: 3}
       propertyPath: m_Name
       value: posShower
