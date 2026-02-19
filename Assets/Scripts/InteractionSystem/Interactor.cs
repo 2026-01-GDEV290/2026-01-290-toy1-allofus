@@ -7,17 +7,30 @@ public class Interactor : MonoBehaviour
     [SerializeField]
     private Vector3 _raycastOffset = new Vector3(0, 1f, 0);
 
+    [SerializeField]
+    private GameObject _interactionUI;
+
     private void Update()
     {
-        if(Input.GetKeyDown(KeyCode.F))
-        {
             if (DoInteractionTest(out IInteractable interactable))
             {
                 if(interactable.CanInteract())
                 {
+                    _interactionUI.SetActive(true);
+                    
+                    if (Input.GetKeyDown(KeyCode.F))
+                { 
                     interactable.Interact(this);
                 }
             }
+            else
+            {
+                _interactionUI.SetActive(false);
+            }
+        }
+        else
+        {
+            _interactionUI.SetActive(false);
         }
     }
     private bool DoInteractionTest(out IInteractable interactable)
