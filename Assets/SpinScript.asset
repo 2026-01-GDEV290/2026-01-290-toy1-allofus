@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: SpinScript
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[{"key":"","label":null,"summary":null,"hideLabel":false}],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-815.0,"y":-203.0},"guid":"832ad0ac-594c-42f7-808c-ca5edc9c050c","$version":"A","$type":"Unity.VisualScripting.Start"},{"coroutine":false,"defaultValues":{},"position":{"x":-826.0,"y":43.0},"guid":"fbab7f8f-bcde-4724-b4de-9ec916c59e51","$version":"A","$type":"Unity.VisualScripting.Update"},{"coroutine":false,"defaultValues":{"button":{"$content":"Left","$type":"Unity.VisualScripting.MouseButton"},"action":{"$content":"Hold","$type":"Unity.VisualScripting.PressState"}},"position":{"x":-598.0,"y":-234.0},"guid":"9c22cf52-c6b1-4302-823b-e346059e20f3","$version":"A","$type":"Unity.VisualScripting.OnMouseInput","$id":"14"},{"chainable":false,"parameterNames":["point","axis","angle"],"member":{"name":"RotateAround","parameterTypes":["UnityEngine.Vector3","UnityEngine.Vector3","System.Single"],"targetType":"UnityEngine.Transform","targetTypeName":"UnityEngine.Transform","$version":"A"},"defaultValues":{"target":null,"%point":{"x":0.0,"y":1.6,"z":0.0,"$type":"UnityEngine.Vector3"},"%axis":{"x":0.0,"y":0.0,"z":0.0,"$type":"UnityEngine.Vector3"},"%angle":{"$content":0.0,"$type":"System.Single"}},"position":{"x":-358.0,"y":-234.0},"guid":"ca53d72f-ec40-45ae-a394-5102a7bc2a26","$version":"A","$type":"Unity.VisualScripting.InvokeMember","$id":"16"},{"chainable":false,"parameterNames":["torque","mode"],"member":{"name":"AddTorque","parameterTypes":["UnityEngine.Vector3","UnityEngine.ForceMode"],"targetType":"UnityEngine.Rigidbody","targetTypeName":"UnityEngine.Rigidbody","$version":"A"},"defaultValues":{"target":null,"%torque":{"x":0.0,"y":0.0,"z":0.0,"$type":"UnityEngine.Vector3"},"%mode":{"$content":"Acceleration","$type":"UnityEngine.ForceMode"}},"position":{"x":-355.0,"y":4.0},"guid":"a6f2b6a8-c8ad-47cd-b3b6-3e2786bc2ee9","$version":"A","$type":"Unity.VisualScripting.InvokeMember","$id":"20"},{"coroutine":false,"defaultValues":{"button":{"$content":"Left","$type":"Unity.VisualScripting.MouseButton"},"action":{"$content":"Hold","$type":"Unity.VisualScripting.PressState"}},"position":{"x":-598.0,"y":5.0},"guid":"5380b0b2-26dc-486e-aab0-ed464d0240e7","$version":"A","$type":"Unity.VisualScripting.OnMouseInput","$id":"24"},{"sourceUnit":{"$ref":"14"},"sourceKey":"trigger","destinationUnit":{"$ref":"16"},"destinationKey":"enter","guid":"0cb8d242-9fe4-49f2-a9a5-20fc1ddb8dcd","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"24"},"sourceKey":"trigger","destinationUnit":{"$ref":"20"},"destinationKey":"enter","guid":"494bf893-b965-4415-a7b8-5b8a1c4319f6","$type":"Unity.VisualScripting.ControlConnection"}],"$version":"A"}}'
+    _objectReferences: []
