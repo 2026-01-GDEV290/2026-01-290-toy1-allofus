@@ -1,6 +1,7 @@
 using Unity.Cinemachine;
 using UnityEngine;
 using UnityEngine.InputSystem;
+
 public class ThrowingScript : MonoBehaviour
 {
     [Header("References")]
@@ -20,6 +21,8 @@ public class ThrowingScript : MonoBehaviour
     public InputActionAsset inputActions;
     private InputAction throwButton;
 
+    public Animator animator;
+
     private void OnEnable()
     {
         inputActions.FindActionMap("Player").Enable();
@@ -38,6 +41,7 @@ public class ThrowingScript : MonoBehaviour
     private void Throw()
     {
         ready2throw = true;
+        animator.SetBool("Throw", true);
 
         //instantiate object to throw
         GameObject projectile = Instantiate(throwObject, attackPoint.position, cam.rotation);
@@ -61,13 +65,20 @@ public class ThrowingScript : MonoBehaviour
 
     private void ResetThrow()
     {
+        animator.SetBool("Throw", false);
         ready2throw = true;
+    }
+
+    private void ResetTotalThrow()
+    {
+        totalThrows = 10;
     }
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         ready2throw = true;
+        animator = this.GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -75,6 +86,8 @@ public class ThrowingScript : MonoBehaviour
     {
         if (throwButton.WasPressedThisFrame() && ready2throw && totalThrows > 0)
         {
+            animator.SetBool("Throw", true);
+            animator.Play("Armature_Sword_Regular_A", 0, 0.0f);
             Throw();
         }
     }
@@ -84,6 +97,7 @@ public class ThrowingScript : MonoBehaviour
         if(collision.gameObject.tag == "Throwable")
         {
             throwObject = collision.gameObject;
+            ResetTotalThrow();
         }
     }
 }

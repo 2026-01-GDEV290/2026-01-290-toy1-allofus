@@ -9,7 +9,7 @@ public class SpawnerScript : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+        spawnCount = 0;
     }
 
     // Update is called once per frame
@@ -23,6 +23,12 @@ public class SpawnerScript : MonoBehaviour
         if(collision.gameObject.tag == "Player" && spawnCount < spawnLimit)
         {
             Instantiate(throwObj, transform.position, Quaternion.identity);
+            spawnCount++;
         }
+    }
+
+    private void DestroyThrowObject()
+    {
+        DestroyImmediate(throwObj, true);
     }
 }
