@@ -3,6 +3,8 @@ using UnityEngine;
 
 public class PlayerShoot : MonoBehaviour
 {
+    [SerializeField]
+    AudioSource gunShotSFX;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -22,6 +24,8 @@ public class PlayerShoot : MonoBehaviour
     {
         Debug.Log("shooting");
         Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+
+        gunShotSFX.Play();
 
         RaycastHit hit = new RaycastHit();
 

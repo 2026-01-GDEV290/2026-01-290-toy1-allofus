@@ -6,6 +6,10 @@ TagManager:
   tags:
   - Disc
   - Box
+  - PlayerSword
+  - Camera
+  - PlayerMain
+  - Attackable
   layers:
   - Default
   - TransparentFX
