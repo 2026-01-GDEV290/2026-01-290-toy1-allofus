@@ -4862,8 +4862,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e1ec1e0200f6ccc47a9939fd0221b676, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sensX: 100
-  senY: -50
+  sensX: 200
+  senY: -100
   playerRotation: {fileID: 1044004759}
   CrossHair: {fileID: 1773264919}
 --- !u!1001 &734345015
