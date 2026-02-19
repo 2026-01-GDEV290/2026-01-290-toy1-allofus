@@ -6,6 +6,7 @@ TagManager:
   tags:
   - GrapplePoint
   - Runner
+  - Balloon
   layers:
   - Default
   - TransparentFX
@@ -13,7 +14,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Balloon
   - GrapplePoint
   - Runner
   - 
