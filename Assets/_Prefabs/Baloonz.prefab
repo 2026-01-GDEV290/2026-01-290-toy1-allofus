@@ -366,13 +366,14 @@ MonoBehaviour:
   initialPosition: {x: 5.21, y: 7, z: 0}
   expandMultiplier: 1.25
   expandDuration: 0.25
-  liftImpulse: 15
+  liftImpulse: 8
   attachLocalOffset: {x: 0, y: 0, z: 0}
   disableDragOnAttach: 1
   gravityScaleWhenAttached: -0.8
   applyCustomGravityWhenAttached: 1
   spawnReplacementOnAttach: 1
   balloonSpawnPrefab: {fileID: 0}
+  detachDelaySeconds: 3
 --- !u!54 &2884457666032907617
 Rigidbody:
   m_ObjectHideFlags: 0

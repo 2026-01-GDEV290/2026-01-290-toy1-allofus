@@ -30,6 +30,14 @@ public class BalloonScript : MonoBehaviour
     private Rigidbody attachedRigidbody;
     private CharacterController attachedController;
 
+    [SerializeField] private float detachDelaySeconds = 3f;
+
+    private Joint2D _activeJoint;  // the joint created during attach
+    private Rigidbody2D _attachedA = null;
+    private Rigidbody2D _attachedB = null;
+
+    private Runner attachedRunner = null;
+
     private void Start()
     {
         //transform.position = initialPosition;
@@ -123,8 +131,21 @@ public class BalloonScript : MonoBehaviour
             attachedRigidbody.AddForce(Vector3.up * liftImpulse, ForceMode.Impulse);
         }
 
+        if (attachedController != null)
+        {
+            //Debug.Log("gameObject name: " + runnerCollider.gameObject.transform.parent.name);
+            attachedRunner = runnerCollider.gameObject.transform.parent.GetComponent<Runner>();
+            if (attachedRunner != null)
+            {
+                //Debug.Log("Runner object found!");
+                attachedRunner.SetIgnoreGravity(true);
+            }
+        }
+
         isAttached = true;
         isDragging = false;
+
+        Invoke(nameof(DetachAndDestroyBalloon), detachDelaySeconds);
 
         if (spawnReplacementOnAttach)
         {
@@ -132,6 +153,22 @@ public class BalloonScript : MonoBehaviour
         }
     }
 
+    private void DetachAndDestroyBalloon()
+    {
+        attachedRunner?.SetIgnoreGravity(false);
+        // Detach the two objects (destroying the joint is the usual detach in Unity)
+        if (_activeJoint != null)
+        {
+            Destroy(_activeJoint);
+            _activeJoint = null;
+        }
+
+        _attachedA = null;
+        _attachedB = null;
+
+        // Destroy this balloon object
+        Destroy(gameObject);
+    }
     private void SpawnReplacementBalloon()
     {
         BaloonThemToy toy = FindFirstObjectByType<BaloonThemToy>();

@@ -17,6 +17,7 @@ public class Runner : MonoBehaviour
     float horizontalVelocity; // store horizontal movement speed
     bool wasGrounded; // track if the character was grounded in the previous frame
     bool ignoreGrounding;
+    bool ignoreGravity = false;
     Vector3 savedVelocity;
 
     void Awake()
@@ -67,7 +68,7 @@ public class Runner : MonoBehaviour
             return; // Don't apply any manual movement
         }
 
-        if (!ignoreGrounding)
+        if (!ignoreGrounding && !ignoreGravity)
         {
             velocity.y += gravity * dt;
         }
@@ -124,6 +125,15 @@ public class Runner : MonoBehaviour
                 }
             }
         }
+    }
+    public void SetIgnoreGravity(bool ignore)
+    {
+        ignoreGravity = ignore;
+        //if (ignore) Invoke(nameof(ResetGravity), 2f);
+    }
+    void ResetGravity()
+    {
+        SetIgnoreGravity(false);
     }
 
     void OnBecameAirborne()
