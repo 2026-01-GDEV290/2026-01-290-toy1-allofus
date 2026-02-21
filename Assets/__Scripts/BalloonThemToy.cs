@@ -24,6 +24,13 @@ public class BaloonThemToy : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
+        // if S key pressed, switch scene
+        if (Input.GetKeyDown(KeyCode.S))
+        {
+            // switch scene
+            UnityEngine.SceneManagement.SceneManager.LoadScene("Toy01");
+        }
         
     }
     void SpawnRunner()

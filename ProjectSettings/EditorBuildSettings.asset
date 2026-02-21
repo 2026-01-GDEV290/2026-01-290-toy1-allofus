@@ -8,6 +8,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Scenes/Toy01.unity
     guid: 2438fd495ded2d641aa4b2efd2afdfa9
+  - enabled: 1
+    path: Assets/_Scenes/Toy02.unity
+    guid: b6b0774245ac3874682f2a21d7a75651
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
   m_UseUCBPForAssetBundles: 0
