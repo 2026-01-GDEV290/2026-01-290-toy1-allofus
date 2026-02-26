@@ -14,7 +14,7 @@ public class PotionOnCollision : MonoBehaviour
 
     private void ColorMixer(){
 
-
+        /* Not complete, sorry */
 
     }
 }
