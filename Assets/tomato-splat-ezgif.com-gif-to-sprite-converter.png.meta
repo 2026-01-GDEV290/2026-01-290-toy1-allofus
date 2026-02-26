@@ -1,0 +1,3211 @@
+fileFormatVersion: 2
+guid: 02110ec88139d7b4d9feed15da9d74f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4992356283042852809
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_0
+  - first:
+      213: -4556052843488938416
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_1
+  - first:
+      213: -8761975773934221229
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_2
+  - first:
+      213: -500910883379511113
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_3
+  - first:
+      213: -6613089547775633075
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_4
+  - first:
+      213: -5590259344089208231
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_5
+  - first:
+      213: 5751641721860185446
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_6
+  - first:
+      213: -1342935906893347206
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_7
+  - first:
+      213: -3052314412906101721
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_8
+  - first:
+      213: 8003091986924741883
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_9
+  - first:
+      213: -4328390151218714442
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_10
+  - first:
+      213: 8337743943663559131
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_11
+  - first:
+      213: 8602991937658078331
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_12
+  - first:
+      213: -3014634614146321376
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_13
+  - first:
+      213: -4201577772555475444
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_14
+  - first:
+      213: -1374037163133292314
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_15
+  - first:
+      213: 2795432360404528330
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_16
+  - first:
+      213: -8668088494664392355
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_17
+  - first:
+      213: -8264249037115873215
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_18
+  - first:
+      213: -7899976398548430479
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_19
+  - first:
+      213: -7965765535466646813
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_20
+  - first:
+      213: -289980873686662
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_21
+  - first:
+      213: 2646151884295683055
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_22
+  - first:
+      213: -6042283629023502727
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_23
+  - first:
+      213: 5571293225951936394
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_24
+  - first:
+      213: 2136524065222007383
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_25
+  - first:
+      213: 5670477126767723323
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_26
+  - first:
+      213: 5163956660172714257
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_27
+  - first:
+      213: -4037959205989492325
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_28
+  - first:
+      213: 383762036311410727
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_29
+  - first:
+      213: -4479359006696967387
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_30
+  - first:
+      213: 5273987180933611983
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_31
+  - first:
+      213: -8561925545051446501
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_32
+  - first:
+      213: 3429648953374873064
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_33
+  - first:
+      213: -820151822273400626
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_34
+  - first:
+      213: 6470912726231363532
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_35
+  - first:
+      213: -8533866287658408649
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_36
+  - first:
+      213: -2083693577380901668
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_37
+  - first:
+      213: -5338243465647378410
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_38
+  - first:
+      213: -6574842801177672725
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_39
+  - first:
+      213: 3953503204337162231
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_40
+  - first:
+      213: -352116645038156270
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_41
+  - first:
+      213: 7661001321250246585
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_42
+  - first:
+      213: 7890531823815980247
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_43
+  - first:
+      213: -4349290527107394220
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_44
+  - first:
+      213: 1129020246547243332
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_45
+  - first:
+      213: -5594533550048682478
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_46
+  - first:
+      213: 5576902155016241114
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_47
+  - first:
+      213: -4392899092238169385
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_48
+  - first:
+      213: -1730306979906796539
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_49
+  - first:
+      213: -591848458493451366
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_50
+  - first:
+      213: -313963383359809384
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_51
+  - first:
+      213: 4279836029276239487
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_52
+  - first:
+      213: 8311264491933252019
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_53
+  - first:
+      213: 3238955892211122224
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_54
+  - first:
+      213: -7739513074755594647
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_55
+  - first:
+      213: 833578833112496429
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_56
+  - first:
+      213: -98329299103063667
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_57
+  - first:
+      213: 184524352099410998
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_58
+  - first:
+      213: -109381910272014418
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_59
+  - first:
+      213: -6817458551406554527
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_60
+  - first:
+      213: -932515106666989807
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_61
+  - first:
+      213: -4425343819330148386
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_62
+  - first:
+      213: 5708353643400684077
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_63
+  - first:
+      213: 2762327451418598160
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_64
+  - first:
+      213: -2628612443140047283
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_65
+  - first:
+      213: 2111017563708004845
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_66
+  - first:
+      213: 607238524364521282
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_67
+  - first:
+      213: 1560779083767035491
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_68
+  - first:
+      213: -980825279377744779
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_69
+  - first:
+      213: -5020139669746945021
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_70
+  - first:
+      213: 4055843780581136307
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_71
+  - first:
+      213: -7066347804007007173
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_72
+  - first:
+      213: -7033241751839874879
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_73
+  - first:
+      213: -3529534214468298374
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_74
+  - first:
+      213: -2166839188202539522
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_75
+  - first:
+      213: -1229390312301510284
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_76
+  - first:
+      213: 5211538296255884048
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_77
+  - first:
+      213: -7006530039852070774
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_78
+  - first:
+      213: -579710456876951820
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_79
+  - first:
+      213: 3082568726206267923
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_80
+  - first:
+      213: -7731272754795303383
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_81
+  - first:
+      213: 4300865552723398682
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_82
+  - first:
+      213: 3886612276389718040
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_83
+  - first:
+      213: -2735024800691541434
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_84
+  - first:
+      213: 1749258223528453168
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_85
+  - first:
+      213: -7294794249116375904
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_86
+  - first:
+      213: 4848005878269866814
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_87
+  - first:
+      213: 696386709111824701
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_88
+  - first:
+      213: 1301031162073377743
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_89
+  - first:
+      213: -651912472553183455
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_90
+  - first:
+      213: 2277581133624202256
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_91
+  - first:
+      213: -6532312080360616427
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_92
+  - first:
+      213: -1661954000625849015
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_93
+  - first:
+      213: 2493899321255662589
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_94
+  - first:
+      213: 5565093541683982743
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_95
+  - first:
+      213: -3894363338342619379
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_96
+  - first:
+      213: -8095660697474035105
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_97
+  - first:
+      213: 5779772017397939793
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_98
+  - first:
+      213: -3884810935819678156
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_99
+  - first:
+      213: 881398721978355035
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_100
+  - first:
+      213: -5357534676560319415
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_101
+  - first:
+      213: -1304092490073002072
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_102
+  - first:
+      213: 5562819117291059250
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_103
+  - first:
+      213: 1201788061386995702
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_104
+  - first:
+      213: -1350643714261979412
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_105
+  - first:
+      213: 6248926869842727572
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_106
+  - first:
+      213: 4677170845937888727
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_107
+  - first:
+      213: -1194397366323198753
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_108
+  - first:
+      213: 1998501017871131921
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_109
+  - first:
+      213: -849222068803604754
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_110
+  - first:
+      213: 8421903914244454080
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_111
+  - first:
+      213: 1005529482740113700
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_112
+  - first:
+      213: -8747148966432113390
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_113
+  - first:
+      213: 6076792121414886711
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_114
+  - first:
+      213: 2290161087468552819
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_115
+  - first:
+      213: -8830130914844583168
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_116
+  - first:
+      213: 3471871197046617951
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_117
+  - first:
+      213: -8285489927002779587
+    second: tomato-splat-ezgif.com-gif-to-sprite-converter_118
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3357
+        width: 138
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7309a05496697bab0800000000000000
+      internalID: -4992356283042852809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 3357
+        width: 132
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056feede316a5c0c0800000000000000
+      internalID: -4556052843488938416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 3357
+        width: 125
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3588210e475376680800000000000000
+      internalID: -8761975773934221229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_3
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 3357
+        width: 120
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0890c94386c09f0800000000000000
+      internalID: -500910883379511113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_4
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 3357
+        width: 120
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d491cfc08169934a0800000000000000
+      internalID: -6613089547775633075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3211
+        width: 113
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a2149beb86b62b0800000000000000
+      internalID: -5590259344089208231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 3215
+        width: 104
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ddaca2cafe1df40800000000000000
+      internalID: 5751641721860185446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_7
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3221
+        width: 100
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76418968eeec5de0800000000000000
+      internalID: -1342935906893347206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_8
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 3225
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7244deb963004a5d0800000000000000
+      internalID: -3052314412906101721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_9
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 3229
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4ac6982c1b01f60800000000000000
+      internalID: 8003091986924741883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3091
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b82f4b17187ee3c0800000000000000
+      internalID: -4328390151218714442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_11
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 3095
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd12b3601fd95b370800000000000000
+      internalID: 8337743943663559131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_12
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 3097
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74c8a13697f36770800000000000000
+      internalID: 8602991937658078331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_13
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 3101
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02436386acdd926d0800000000000000
+      internalID: -3014634614146321376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_14
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 3107
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0667aad64ff0b5c0800000000000000
+      internalID: -4201577772555475444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_15
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 2963
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e03147ea707eece0800000000000000
+      internalID: -1374037163133292314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_16
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2965
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc2b83cbee5bc620800000000000000
+      internalID: 2795432360404528330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_17
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2967
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51e0e98073c4b780800000000000000
+      internalID: -8668088494664392355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_18
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 2971
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148285f594d7f4d80800000000000000
+      internalID: -8264249037115873215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_19
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 2971
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1711d864255ad5290800000000000000
+      internalID: -7899976398548430479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2827
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2167e237ae37190800000000000000
+      internalID: -7965765535466646813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_21
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2829
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7148019348fefff0800000000000000
+      internalID: -289980873686662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_22
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2831
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febbc2d6e1509b420800000000000000
+      internalID: 2646151884295683055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_23
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 2833
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e55e38d0f752ca0800000000000000
+      internalID: -6042283629023502727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_24
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 2835
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fb768cba5315d40800000000000000
+      internalID: 5571293225951936394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_25
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2689
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a91a9415576ad10800000000000000
+      internalID: 2136524065222007383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_26
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2691
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33c7ff37e491be40800000000000000
+      internalID: 5670477126767723323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_27
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 2693
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1117b1df83f0aa740800000000000000
+      internalID: 5163956660172714257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_28
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 2693
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b995a750f7946f7c0800000000000000
+      internalID: -4037959205989492325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_29
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 2693
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7284f9ce985635500800000000000000
+      internalID: 383762036311410727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_30
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 2549
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523716057be16d1c0800000000000000
+      internalID: -4479359006696967387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_31
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2549
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc10385f567f03940800000000000000
+      internalID: 5273987180933611983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_32
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 2549
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13addd641eed2980800000000000000
+      internalID: -8561925545051446501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_33
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 2549
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e513325d8f889f20800000000000000
+      internalID: 3429648953374873064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_34
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2549
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec03183534c3e94f0800000000000000
+      internalID: -820151822273400626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_35
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2403
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf239317dc4dc950800000000000000
+      internalID: 6470912726231363532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_36
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2403
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735607363dd919980800000000000000
+      internalID: -8533866287658408649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_37
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 2401
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcc2733bbb3513e0800000000000000
+      internalID: -2083693577380901668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_38
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2401
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610b989e9dfbae5b0800000000000000
+      internalID: -5338243465647378410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_39
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 2401
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be345cdae4771c4a0800000000000000
+      internalID: -6574842801177672725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_40
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2255
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f792e0c73aadd630800000000000000
+      internalID: 3953503204337162231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_41
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2255
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2169ff4e6c70d1bf0800000000000000
+      internalID: -352116645038156270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_42
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2255
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf4be8ac18515a60800000000000000
+      internalID: 7661001321250246585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_43
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 2255
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4777f43ecc08d60800000000000000
+      internalID: 7890531823815980247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_44
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 2255
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455dac22f4734a3c0800000000000000
+      internalID: -4349290527107394220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_45
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 2109
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4412ca3bee51baf00800000000000000
+      internalID: 1129020246547243332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_46
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2109
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ed75990693c52b0800000000000000
+      internalID: -5594533550048682478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_47
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 2111
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf7ad856f2256d40800000000000000
+      internalID: 5576902155016241114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_48
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2111
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da0209dc894903c0800000000000000
+      internalID: -4392899092238169385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_49
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 2111
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504c64628f6bcf7e0800000000000000
+      internalID: -1730306979906796539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_50
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1965
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93a2a676f459c7f0800000000000000
+      internalID: -591848458493451366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_51
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1965
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898db5e57f394abf0800000000000000
+      internalID: -313963383359809384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_52
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1965
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76bded6138056b30800000000000000
+      internalID: 4279836029276239487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_53
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1965
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9bffb350b875370800000000000000
+      internalID: 8311264491933252019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_54
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1965
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0300766293513fc20800000000000000
+      internalID: 3238955892211122224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1817
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96693bc3dd9b79490800000000000000
+      internalID: -7739513074755594647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_56
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1817
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2974ff3887719b00800000000000000
+      internalID: 833578833112496429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_57
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1817
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81e2fff50aa2aef0800000000000000
+      internalID: -98329299103063667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_58
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1817
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6346b4babef8f8200800000000000000
+      internalID: 184524352099410998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_59
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1815
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7026d6bb56b7ef0800000000000000
+      internalID: -109381910272014418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1669
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162967461958361a0800000000000000
+      internalID: -6817458551406554527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_61
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1669
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117bd6f737a0f03f0800000000000000
+      internalID: -932515106666989807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_62
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1669
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed72bd72e350692c0800000000000000
+      internalID: -4425343819330148386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_63
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1667
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22643ff465283f40800000000000000
+      internalID: 5708353643400684077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_64
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1667
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b9d1f7e22c55620800000000000000
+      internalID: 2762327451418598160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_65
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1521
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e3772f8ea458bd0800000000000000
+      internalID: -2628612443140047283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_66
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1521
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de91d6f1a47db4d10800000000000000
+      internalID: 2111017563708004845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_67
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1519
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ffdaa78385d6800800000000000000
+      internalID: 607238524364521282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_68
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1519
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3663bccae4009a510800000000000000
+      internalID: 1560779083767035491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_69
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1519
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c57f3ea986362f0800000000000000
+      internalID: -980825279377744779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_70
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1373
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304f2e57191e45ab0800000000000000
+      internalID: -5020139669746945021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_71
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1371
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7140efd60494830800000000000000
+      internalID: 4055843780581136307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_72
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1371
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cfcc28c1a4fed90800000000000000
+      internalID: -7066347804007007173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_73
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1371
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c06322f3e7e46e90800000000000000
+      internalID: -7033241751839874879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_74
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1371
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79970c0553940fc0800000000000000
+      internalID: -3529534214468298374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_75
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1223
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5bacd1d37dde1e0800000000000000
+      internalID: -2166839188202539522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_76
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1223
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47146f8460450fee0800000000000000
+      internalID: -1229390312301510284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_77
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1223
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b2da1f77a135840800000000000000
+      internalID: 5211538296255884048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_78
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1223
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88838a0d0ec3ce90800000000000000
+      internalID: -7006530039852070774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_79
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1221
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f61541396474f7f0800000000000000
+      internalID: -579710456876951820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_80
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1075
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312c041aceb77ca20800000000000000
+      internalID: 3082568726206267923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_81
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1075
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e25cc346005b490800000000000000
+      internalID: -7731272754795303383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_82
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1075
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10dac8ee6ebfab30800000000000000
+      internalID: 4300865552723398682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_83
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1073
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818a1e1f54500f530800000000000000
+      internalID: 3886612276389718040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_84
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1073
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64aa5ee3f6d3b0ad0800000000000000
+      internalID: -2735024800691541434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_85
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 925
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03428d9161d964810800000000000000
+      internalID: 1749258223528453168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_86
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 925
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a42bd7a74fa3ca90800000000000000
+      internalID: -7294794249116375904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_87
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 925
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33f74319a3974340800000000000000
+      internalID: 4848005878269866814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_88
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 925
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31e9e6b5001aa900800000000000000
+      internalID: 696386709111824701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_89
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 925
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbe811e2f03e0210800000000000000
+      internalID: 1301031162073377743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_90
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 779
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12722d86f01f3f6f0800000000000000
+      internalID: -651912472553183455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_91
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 779
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0145dc059f79b9f10800000000000000
+      internalID: 2277581133624202256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_92
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 779
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ecc18c5c09855a0800000000000000
+      internalID: -6532312080360616427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_93
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 779
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d28af44ad8fe8e0800000000000000
+      internalID: -1661954000625849015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_94
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 779
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3180d283c1c9220800000000000000
+      internalID: 2493899321255662589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_95
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 633
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791f4ed471f2b3d40800000000000000
+      internalID: 5565093541683982743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_96
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 633
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07a8cf4d2174f9c0800000000000000
+      internalID: -3894363338342619379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_97
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 633
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5218f00d7f66af80800000000000000
+      internalID: -8095660697474035105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_98
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 633
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e3fbbf600e53050800000000000000
+      internalID: 5779772017397939793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_99
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 633
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e4ae65901661ac0800000000000000
+      internalID: -3884810935819678156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_100
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 487
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5dc001c77b5b3c00800000000000000
+      internalID: 881398721978355035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_101
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 487
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ce8cbd89636a5b0800000000000000
+      internalID: -5357534676560319415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_102
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 487
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afa1f62acee6ede0800000000000000
+      internalID: -1304092490073002072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_103
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 487
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238b2eb938a133d40800000000000000
+      internalID: 5562819117291059250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_104
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 487
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7f64edfdb9da010800000000000000
+      internalID: 1201788061386995702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_105
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 341
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceeec49a2bc814de0800000000000000
+      internalID: -1350643714261979412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_106
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 341
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4929e5041e5a8b650800000000000000
+      internalID: 6248926869842727572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_107
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 341
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dde0f98a16a8e040800000000000000
+      internalID: 4677170845937888727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_108
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 341
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4c4ab6ce5ac6fe0800000000000000
+      internalID: -1194397366323198753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_109
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 341
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1152775561a1cbb10800000000000000
+      internalID: 1998501017871131921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_110
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 195
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeee98d1705f634f0800000000000000
+      internalID: -849222068803604754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_111
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 195
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c633052dfc90e470800000000000000
+      internalID: 8421903914244454080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_112
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 195
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42128edacbb54fd00800000000000000
+      internalID: 1005529482740113700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_113
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 195
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d73620c52eb9680800000000000000
+      internalID: -8747148966432113390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_114
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 195
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735a3dafc3a155450800000000000000
+      internalID: 6076792121414886711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_115
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 49
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3724cf0106948cf10800000000000000
+      internalID: 2290161087468552819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_116
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 49
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b5e7c87b2157580800000000000000
+      internalID: -8830130914844583168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_117
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 49
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57bfdd75709e2030800000000000000
+      internalID: 3471871197046617951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tomato-splat-ezgif.com-gif-to-sprite-converter_118
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 49
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d301cee4fc6040d80800000000000000
+      internalID: -8285489927002779587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tomato-splat-ezgif.com-gif-to-sprite-converter_0: -4992356283042852809
+      tomato-splat-ezgif.com-gif-to-sprite-converter_1: -4556052843488938416
+      tomato-splat-ezgif.com-gif-to-sprite-converter_10: -4328390151218714442
+      tomato-splat-ezgif.com-gif-to-sprite-converter_100: 881398721978355035
+      tomato-splat-ezgif.com-gif-to-sprite-converter_101: -5357534676560319415
+      tomato-splat-ezgif.com-gif-to-sprite-converter_102: -1304092490073002072
+      tomato-splat-ezgif.com-gif-to-sprite-converter_103: 5562819117291059250
+      tomato-splat-ezgif.com-gif-to-sprite-converter_104: 1201788061386995702
+      tomato-splat-ezgif.com-gif-to-sprite-converter_105: -1350643714261979412
+      tomato-splat-ezgif.com-gif-to-sprite-converter_106: 6248926869842727572
+      tomato-splat-ezgif.com-gif-to-sprite-converter_107: 4677170845937888727
+      tomato-splat-ezgif.com-gif-to-sprite-converter_108: -1194397366323198753
+      tomato-splat-ezgif.com-gif-to-sprite-converter_109: 1998501017871131921
+      tomato-splat-ezgif.com-gif-to-sprite-converter_11: 8337743943663559131
+      tomato-splat-ezgif.com-gif-to-sprite-converter_110: -849222068803604754
+      tomato-splat-ezgif.com-gif-to-sprite-converter_111: 8421903914244454080
+      tomato-splat-ezgif.com-gif-to-sprite-converter_112: 1005529482740113700
+      tomato-splat-ezgif.com-gif-to-sprite-converter_113: -8747148966432113390
+      tomato-splat-ezgif.com-gif-to-sprite-converter_114: 6076792121414886711
+      tomato-splat-ezgif.com-gif-to-sprite-converter_115: 2290161087468552819
+      tomato-splat-ezgif.com-gif-to-sprite-converter_116: -8830130914844583168
+      tomato-splat-ezgif.com-gif-to-sprite-converter_117: 3471871197046617951
+      tomato-splat-ezgif.com-gif-to-sprite-converter_118: -8285489927002779587
+      tomato-splat-ezgif.com-gif-to-sprite-converter_12: 8602991937658078331
+      tomato-splat-ezgif.com-gif-to-sprite-converter_13: -3014634614146321376
+      tomato-splat-ezgif.com-gif-to-sprite-converter_14: -4201577772555475444
+      tomato-splat-ezgif.com-gif-to-sprite-converter_15: -1374037163133292314
+      tomato-splat-ezgif.com-gif-to-sprite-converter_16: 2795432360404528330
+      tomato-splat-ezgif.com-gif-to-sprite-converter_17: -8668088494664392355
+      tomato-splat-ezgif.com-gif-to-sprite-converter_18: -8264249037115873215
+      tomato-splat-ezgif.com-gif-to-sprite-converter_19: -7899976398548430479
+      tomato-splat-ezgif.com-gif-to-sprite-converter_2: -8761975773934221229
+      tomato-splat-ezgif.com-gif-to-sprite-converter_20: -7965765535466646813
+      tomato-splat-ezgif.com-gif-to-sprite-converter_21: -289980873686662
+      tomato-splat-ezgif.com-gif-to-sprite-converter_22: 2646151884295683055
+      tomato-splat-ezgif.com-gif-to-sprite-converter_23: -6042283629023502727
+      tomato-splat-ezgif.com-gif-to-sprite-converter_24: 5571293225951936394
+      tomato-splat-ezgif.com-gif-to-sprite-converter_25: 2136524065222007383
+      tomato-splat-ezgif.com-gif-to-sprite-converter_26: 5670477126767723323
+      tomato-splat-ezgif.com-gif-to-sprite-converter_27: 5163956660172714257
+      tomato-splat-ezgif.com-gif-to-sprite-converter_28: -4037959205989492325
+      tomato-splat-ezgif.com-gif-to-sprite-converter_29: 383762036311410727
+      tomato-splat-ezgif.com-gif-to-sprite-converter_3: -500910883379511113
+      tomato-splat-ezgif.com-gif-to-sprite-converter_30: -4479359006696967387
+      tomato-splat-ezgif.com-gif-to-sprite-converter_31: 5273987180933611983
+      tomato-splat-ezgif.com-gif-to-sprite-converter_32: -8561925545051446501
+      tomato-splat-ezgif.com-gif-to-sprite-converter_33: 3429648953374873064
+      tomato-splat-ezgif.com-gif-to-sprite-converter_34: -820151822273400626
+      tomato-splat-ezgif.com-gif-to-sprite-converter_35: 6470912726231363532
+      tomato-splat-ezgif.com-gif-to-sprite-converter_36: -8533866287658408649
+      tomato-splat-ezgif.com-gif-to-sprite-converter_37: -2083693577380901668
+      tomato-splat-ezgif.com-gif-to-sprite-converter_38: -5338243465647378410
+      tomato-splat-ezgif.com-gif-to-sprite-converter_39: -6574842801177672725
+      tomato-splat-ezgif.com-gif-to-sprite-converter_4: -6613089547775633075
+      tomato-splat-ezgif.com-gif-to-sprite-converter_40: 3953503204337162231
+      tomato-splat-ezgif.com-gif-to-sprite-converter_41: -352116645038156270
+      tomato-splat-ezgif.com-gif-to-sprite-converter_42: 7661001321250246585
+      tomato-splat-ezgif.com-gif-to-sprite-converter_43: 7890531823815980247
+      tomato-splat-ezgif.com-gif-to-sprite-converter_44: -4349290527107394220
+      tomato-splat-ezgif.com-gif-to-sprite-converter_45: 1129020246547243332
+      tomato-splat-ezgif.com-gif-to-sprite-converter_46: -5594533550048682478
+      tomato-splat-ezgif.com-gif-to-sprite-converter_47: 5576902155016241114
+      tomato-splat-ezgif.com-gif-to-sprite-converter_48: -4392899092238169385
+      tomato-splat-ezgif.com-gif-to-sprite-converter_49: -1730306979906796539
+      tomato-splat-ezgif.com-gif-to-sprite-converter_5: -5590259344089208231
+      tomato-splat-ezgif.com-gif-to-sprite-converter_50: -591848458493451366
+      tomato-splat-ezgif.com-gif-to-sprite-converter_51: -313963383359809384
+      tomato-splat-ezgif.com-gif-to-sprite-converter_52: 4279836029276239487
+      tomato-splat-ezgif.com-gif-to-sprite-converter_53: 8311264491933252019
+      tomato-splat-ezgif.com-gif-to-sprite-converter_54: 3238955892211122224
+      tomato-splat-ezgif.com-gif-to-sprite-converter_55: -7739513074755594647
+      tomato-splat-ezgif.com-gif-to-sprite-converter_56: 833578833112496429
+      tomato-splat-ezgif.com-gif-to-sprite-converter_57: -98329299103063667
+      tomato-splat-ezgif.com-gif-to-sprite-converter_58: 184524352099410998
+      tomato-splat-ezgif.com-gif-to-sprite-converter_59: -109381910272014418
+      tomato-splat-ezgif.com-gif-to-sprite-converter_6: 5751641721860185446
+      tomato-splat-ezgif.com-gif-to-sprite-converter_60: -6817458551406554527
+      tomato-splat-ezgif.com-gif-to-sprite-converter_61: -932515106666989807
+      tomato-splat-ezgif.com-gif-to-sprite-converter_62: -4425343819330148386
+      tomato-splat-ezgif.com-gif-to-sprite-converter_63: 5708353643400684077
+      tomato-splat-ezgif.com-gif-to-sprite-converter_64: 2762327451418598160
+      tomato-splat-ezgif.com-gif-to-sprite-converter_65: -2628612443140047283
+      tomato-splat-ezgif.com-gif-to-sprite-converter_66: 2111017563708004845
+      tomato-splat-ezgif.com-gif-to-sprite-converter_67: 607238524364521282
+      tomato-splat-ezgif.com-gif-to-sprite-converter_68: 1560779083767035491
+      tomato-splat-ezgif.com-gif-to-sprite-converter_69: -980825279377744779
+      tomato-splat-ezgif.com-gif-to-sprite-converter_7: -1342935906893347206
+      tomato-splat-ezgif.com-gif-to-sprite-converter_70: -5020139669746945021
+      tomato-splat-ezgif.com-gif-to-sprite-converter_71: 4055843780581136307
+      tomato-splat-ezgif.com-gif-to-sprite-converter_72: -7066347804007007173
+      tomato-splat-ezgif.com-gif-to-sprite-converter_73: -7033241751839874879
+      tomato-splat-ezgif.com-gif-to-sprite-converter_74: -3529534214468298374
+      tomato-splat-ezgif.com-gif-to-sprite-converter_75: -2166839188202539522
+      tomato-splat-ezgif.com-gif-to-sprite-converter_76: -1229390312301510284
+      tomato-splat-ezgif.com-gif-to-sprite-converter_77: 5211538296255884048
+      tomato-splat-ezgif.com-gif-to-sprite-converter_78: -7006530039852070774
+      tomato-splat-ezgif.com-gif-to-sprite-converter_79: -579710456876951820
+      tomato-splat-ezgif.com-gif-to-sprite-converter_8: -3052314412906101721
+      tomato-splat-ezgif.com-gif-to-sprite-converter_80: 3082568726206267923
+      tomato-splat-ezgif.com-gif-to-sprite-converter_81: -7731272754795303383
+      tomato-splat-ezgif.com-gif-to-sprite-converter_82: 4300865552723398682
+      tomato-splat-ezgif.com-gif-to-sprite-converter_83: 3886612276389718040
+      tomato-splat-ezgif.com-gif-to-sprite-converter_84: -2735024800691541434
+      tomato-splat-ezgif.com-gif-to-sprite-converter_85: 1749258223528453168
+      tomato-splat-ezgif.com-gif-to-sprite-converter_86: -7294794249116375904
+      tomato-splat-ezgif.com-gif-to-sprite-converter_87: 4848005878269866814
+      tomato-splat-ezgif.com-gif-to-sprite-converter_88: 696386709111824701
+      tomato-splat-ezgif.com-gif-to-sprite-converter_89: 1301031162073377743
+      tomato-splat-ezgif.com-gif-to-sprite-converter_9: 8003091986924741883
+      tomato-splat-ezgif.com-gif-to-sprite-converter_90: -651912472553183455
+      tomato-splat-ezgif.com-gif-to-sprite-converter_91: 2277581133624202256
+      tomato-splat-ezgif.com-gif-to-sprite-converter_92: -6532312080360616427
+      tomato-splat-ezgif.com-gif-to-sprite-converter_93: -1661954000625849015
+      tomato-splat-ezgif.com-gif-to-sprite-converter_94: 2493899321255662589
+      tomato-splat-ezgif.com-gif-to-sprite-converter_95: 5565093541683982743
+      tomato-splat-ezgif.com-gif-to-sprite-converter_96: -3894363338342619379
+      tomato-splat-ezgif.com-gif-to-sprite-converter_97: -8095660697474035105
+      tomato-splat-ezgif.com-gif-to-sprite-converter_98: 5779772017397939793
+      tomato-splat-ezgif.com-gif-to-sprite-converter_99: -3884810935819678156
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
